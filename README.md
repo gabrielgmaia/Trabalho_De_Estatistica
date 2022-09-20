@@ -9,3 +9,8 @@ possuindo as seguintes categorias de informações:
 | Idade (Idade do paciente)
 | Ano (Ano do diagnóstico)
 | Numero De Nós (Quantidade de nódulos encontrados no paciente)
+
+# PARTICIPANTES
+
+GABRIEL MAIA
+CAUE MARTINS
