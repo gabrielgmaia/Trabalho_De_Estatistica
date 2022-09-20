@@ -12,5 +12,5 @@ possuindo as seguintes categorias de informações:
 
 # PARTICIPANTES
 
-GABRIEL MAIA
+GABRIEL MAIA | 
 CAUE MARTINS
